@@ -1,0 +1,6 @@
+D:\Programozás\Visual Studio\Feladatok\Konyv9\Konyv9\bin\Debug\Konyv9.exe.config
+D:\Programozás\Visual Studio\Feladatok\Konyv9\Konyv9\bin\Debug\Konyv9.exe
+D:\Programozás\Visual Studio\Feladatok\Konyv9\Konyv9\bin\Debug\Konyv9.pdb
+D:\Programozás\Visual Studio\Feladatok\Konyv9\Konyv9\obj\Debug\Konyv9.csprojResolveAssemblyReference.cache
+D:\Programozás\Visual Studio\Feladatok\Konyv9\Konyv9\obj\Debug\Konyv9.exe
+D:\Programozás\Visual Studio\Feladatok\Konyv9\Konyv9\obj\Debug\Konyv9.pdb

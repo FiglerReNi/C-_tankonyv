@@ -1,0 +1,6 @@
+D:\Programozás\Visual Studio\Feladatok\Konyv8\Konyv8\bin\Debug\Konyv8.exe.config
+D:\Programozás\Visual Studio\Feladatok\Konyv8\Konyv8\obj\Debug\Konyv8.csprojResolveAssemblyReference.cache
+D:\Programozás\Visual Studio\Feladatok\Konyv8\Konyv8\bin\Debug\Konyv8.exe
+D:\Programozás\Visual Studio\Feladatok\Konyv8\Konyv8\bin\Debug\Konyv8.pdb
+D:\Programozás\Visual Studio\Feladatok\Konyv8\Konyv8\obj\Debug\Konyv8.exe
+D:\Programozás\Visual Studio\Feladatok\Konyv8\Konyv8\obj\Debug\Konyv8.pdb

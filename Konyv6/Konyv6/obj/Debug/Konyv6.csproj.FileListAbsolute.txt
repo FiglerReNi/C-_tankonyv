@@ -1,0 +1,7 @@
+D:\Programozás\Visual Studio\Feladatok\Konyv6\Konyv6\bin\Debug\Konyv6.exe.config
+D:\Programozás\Visual Studio\Feladatok\Konyv6\Konyv6\bin\Debug\Konyv6.exe
+D:\Programozás\Visual Studio\Feladatok\Konyv6\Konyv6\bin\Debug\Konyv6.pdb
+D:\Programozás\Visual Studio\Feladatok\Konyv6\Konyv6\obj\Debug\Konyv6.csprojAssemblyReference.cache
+D:\Programozás\Visual Studio\Feladatok\Konyv6\Konyv6\obj\Debug\Konyv6.csproj.CoreCompileInputs.cache
+D:\Programozás\Visual Studio\Feladatok\Konyv6\Konyv6\obj\Debug\Konyv6.exe
+D:\Programozás\Visual Studio\Feladatok\Konyv6\Konyv6\obj\Debug\Konyv6.pdb
