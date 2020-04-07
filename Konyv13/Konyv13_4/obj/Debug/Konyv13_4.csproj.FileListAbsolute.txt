@@ -1,0 +1,5 @@
+D:\Programozás\Visual Studio\Feladatok\Konyv13\Konyv13_4\bin\Debug\Konyv13_4.exe.config
+D:\Programozás\Visual Studio\Feladatok\Konyv13\Konyv13_4\bin\Debug\Konyv13_4.exe
+D:\Programozás\Visual Studio\Feladatok\Konyv13\Konyv13_4\bin\Debug\Konyv13_4.pdb
+D:\Programozás\Visual Studio\Feladatok\Konyv13\Konyv13_4\obj\Debug\Konyv13_4.exe
+D:\Programozás\Visual Studio\Feladatok\Konyv13\Konyv13_4\obj\Debug\Konyv13_4.pdb

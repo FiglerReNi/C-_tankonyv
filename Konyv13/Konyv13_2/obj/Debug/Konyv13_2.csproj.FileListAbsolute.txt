@@ -1,0 +1,6 @@
+D:\Programozás\Visual Studio\Feladatok\Konyv13\Konyv13_2\bin\Debug\Konyv13_2.exe.config
+D:\Programozás\Visual Studio\Feladatok\Konyv13\Konyv13_2\bin\Debug\Konyv13_2.exe
+D:\Programozás\Visual Studio\Feladatok\Konyv13\Konyv13_2\bin\Debug\Konyv13_2.pdb
+D:\Programozás\Visual Studio\Feladatok\Konyv13\Konyv13_2\obj\Debug\Konyv13_2.csprojResolveAssemblyReference.cache
+D:\Programozás\Visual Studio\Feladatok\Konyv13\Konyv13_2\obj\Debug\Konyv13_2.exe
+D:\Programozás\Visual Studio\Feladatok\Konyv13\Konyv13_2\obj\Debug\Konyv13_2.pdb
